@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ganeshk44319472" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshk44319472?logo=twitter&style=for-the-badge" alt="ganeshk44319472" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,ReactJs**
+- 📈 I’m currently learning **Javascript,ReactJs**
+
+- 🚀 I'm skilled in **C Language,Python** 
 
 - 📫 How to reach me **rjeekay24@gmail.com**
 
-- ⚡ Fun fact **I think I'm good in humours and vibing with my colleagues**
+- ⚡ Fun fact **Learning about new technologies and gadgets and gaining interest towards future inventions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
