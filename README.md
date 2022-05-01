@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ganesh Kumar </h1>
 <h3 align="center">I"m a passionate growing developer from Chennai pursuing my B.Tech CSE at SRM UNIVERSITY.I am currently learning backend development and learning about Data Mining and working on MERN stack projects </h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeekay24&label=Profile%20views&color=0e75b6&style=flat" alt="jeekay24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ganeshk44319472" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshk44319472?logo=twitter&style=for-the-badge" alt="ganeshk44319472" /></a> </p>
