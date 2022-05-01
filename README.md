@@ -1,17 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ganesh Kumar</h1>
-<h3 align="center">I"m a passionate growing developer from India pursuing my B.Tech Cse at SRM UNIVERSITY</h3>
+<h1 align="center">Hey 👋, I'm Ganesh Kumar </h1>
+<h3 align="center">I"m a passionate growing developer from Chennai pursuing my B.Tech CSE at SRM UNIVERSITY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeekay24&label=Profile%20views&color=0e75b6&style=flat" alt="jeekay24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ganeshk44319472" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshk44319472?logo=twitter&style=for-the-badge" alt="ganeshk44319472" /></a> </p>
-
-- 📈 I’m currently learning **Javascript,ReactJs**
-
-- 🚀 I'm skilled in **C Language,Python** 
-
-- 📫 How to reach me **rjeekay24@gmail.com**
-
-- ⚡ Fun fact **Learning about new technologies and gadgets and gaining interest towards future inventions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
