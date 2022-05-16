@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm Ganesh Kumar </h1>
-<h2 align="center">I"m a passionate growing developer from Chennai pursuing my B.Tech CSE at SRM UNIVERSITY.I am currently learning fullstack web development and working on MERN stack projects </h2>
+<h1 align="center">Hey 👋, I'm Ganesh Kumar 🚀</h1>
+<h2 align="center">I"m a passionate growing developer from Chennai pursuing my B.Tech CSE at SRM UNIVERSITY. I am currently learning fullstack web development and working on MERN stack projects </h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeekay24&label=Profile%20views&color=0e75b6&style=flat" alt="jeekay24" /> </p>
