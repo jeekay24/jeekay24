@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeekay24&label=Profile%20views&color=0e75b6&style=flat" alt="jeekay24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ganeshk44319472" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshk44319472?logo=twitter&style=for-the-badge" alt="ganeshk44319472" /></a> </p>
+<img  align="right" src=https://github.com/Madhumitha155/Madhumitha155/blob/main/it-works-if-you-work-it-mental-health-action-day.gif height="300" width="300"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
