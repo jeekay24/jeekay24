@@ -1,7 +1,7 @@
 <h2>Hey 👋, I'm Ganesh Kumar</h2>
-<p>I"m a passionate growing developer from Chennai pursuing my B.Tech CSE at SRM UNIVERSITY.</p>
--I am currently working on web development<br>
--Also working on MERN stack and learning about app devlopment<br>
+<p>I'm a passionate ever learning developer pursuing my B.Tech CSE degree at SRM UNIVERSITY Chennai</p>
+  👉I am currently working on Web Development<br>
+  👉Also working on MERN Stack and learning about App Devlopment<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
