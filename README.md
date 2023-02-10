@@ -6,11 +6,11 @@
   
 - 🔭 I’m currently working on My Blog, Github Project
 
-- 🌱 I’m currently learning Data Science,AWS,Data Engineering 
+- 🌱 I’m currently learning ML,DL and CLoud Computing
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
-- 💬 Talk to me about Python, JavaScript, Freelancing Opportunites, Open Source
+- 💬 I would like to talk about Python, JavaScript, Freelancing Opportunites, Open Source
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="80px" height=50px> </h2>
 <p align="left">
