@@ -1,5 +1,5 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
- <div size='40px'> Hi! My name is R Ganesh Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
+ <div size='40px'> I am Ganesh Kumar. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
   <h2> About Me </h2>
   <img class="animated-gif" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" width=370 height=250 align=right>
