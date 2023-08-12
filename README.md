@@ -4,9 +4,9 @@
   <h2> About Me </h2>
   <img class="animated-gif" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banners/banner9.gif" width=370 height=250 align=right>
   
-- 🔭 I’m currently working on My Blog, Github Project
+- 🔭 I’m currently working on Github Projects and Cloud related stuffs
 
-- 🌱 I’m currently learning ML,DL and CLoud Computing
+- 🌱 I’m currently learning ML,DSA and CLoud Computing
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
