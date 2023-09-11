@@ -9,7 +9,7 @@
 
  ###
 
- <img src="images/Screenshot 2023-09-11 161353.png" align="center">
+ <img src="images/Screenshot 2023-09-11 161353.png" height="380" align="center">
 
 
   <!--<h2> About Me </h2>
