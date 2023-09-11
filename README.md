@@ -33,11 +33,18 @@
 <a href="https://instagram.com/jeekay_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeekay_24" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/ganeshk44319472" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshk44319472?logo=twitter&style=for-the-badge" alt="ganeshk44319472" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeekay24&label=Profile%20views&color=0e75b6&style=flat" alt="jeekay24" /> </p>
 
 <hr>
 
-  
+  <div align="center">
+  <img src="https://profile-counter.glitch.me/jeekay24/count.svg?"  />
+</div>
+
  <n><p align ="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jeekay24&show_icons=true&locale=en&theme=dark" alt="jeekay24" width = "48%"/></n>
   &nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=jeekay24&theme=dracula" alt="jeekay24" width="48%" /></p>
- 
+
+ ###
+
+<img src="https://raw.githubusercontent.com/jeekay24/jeekay24/output/snake.svg" alt="Snake animation" />
+
+###
