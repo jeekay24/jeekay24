@@ -3,12 +3,11 @@
 
 ### Getting to know me ...
 
-<img class="animated-gif" src="https://ardas-it.com/uploads/images/blogs/giph.gif" width=370 height=250 align=right>
-
  I'm a **Final year student** 🎓 pursuing my **B.Tech CSE degree** at [SRMIST_Chennai](https://srmrmp.edu.in). My tech expertise spans front-end technologies like **React JS** and **JavaScript**, as well as back-end tools like **Django**, **Flask**, and **MongoDB**. With a solid foundation in C++, I practice Competitive Programming honing my problem-solving skills. I've also contributed to **MERN** stack projects and refined my cloud computing skills with **AWS** and **GCloud**. I am presently immersed in the study of **DevOps** and cloud computing, aiming to master these pivotal aspects of modern technology. Beyond coding, I'm a Design Aficionado, skilled in **Figma** and **Canva**. <br>
  <br>
  I'm always open to exploring new tech stacks and projects, eager to learn and contribute. If you're interested in collaboration, please don't hesitate to reach out to me. I'm excited to connect and work together! Cheers! 🌟
-  
+
+  <img src="Screenshot 2023-09-11 161353.png" align="center">
 
   <!--<h2> About Me </h2>
   
